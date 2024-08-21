@@ -26,7 +26,8 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
-
+## Test my project
+Netlify: https://66c53c2508eb959ba8d8631c--resonant-valkyrie-00c273.netlify.app/
 
 ## 🚀 About Me
 Soy un Desarrollador FrontEnd en aprendizaje con conocimientos en (REACTJS, ANGULAR Y MAS)
